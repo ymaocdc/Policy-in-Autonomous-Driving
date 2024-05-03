@@ -9,4 +9,5 @@ My name is [Yunxiang Mao](https://www.linkedin.com/in/yunxiang-mao-217b35a7/). I
 ## 2024/05
 - [Behavior Transformers: Cloning k modes with one stone](https://github.com/notmahi/bet) [[notes](notes/behaviortransformer.md)]
 - [Implicit behavioral cloning](https://implicitbc.github.io/) 
-- [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/) 
+- [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/)
+- [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/pdf/2106.02039)
